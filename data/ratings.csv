@@ -1,0 +1,289 @@
+user_id,item_id,rating,buyer_review
+U01,G017,3,It matched the description and arrived on time.
+U01,G031,5,A wonderful gift that exceeded expectations.
+U01,G026,3,Nice gift and reasonably easy to use.
+U01,G005,5,"Useful, stylish and very good value."
+U01,G002,5,Excellent craftsmanship and perfect for the occasion.
+U01,G028,3,"A pleasant choice, though delivery could improve."
+U01,G007,5,A wonderful gift that exceeded expectations.
+U01,G020,2,The recipient was not impressed and it felt overpriced.
+U01,G040,4,"Useful, stylish and very good value."
+U01,G014,4,The recipient loved it and it felt personal.
+U01,G035,4,The recipient loved it and it felt personal.
+U01,G004,4,"Useful, stylish and very good value."
+U01,G021,3,It matched the description and arrived on time.
+U01,G006,4,Excellent craftsmanship and perfect for the occasion.
+U01,G029,5,The recipient loved it and it felt personal.
+U01,G027,4,The recipient loved it and it felt personal.
+U01,G010,4,"Thoughtful, beautiful and arrived with great quality."
+U01,G038,3,"A pleasant choice, though delivery could improve."
+U01,G008,3,It matched the description and arrived on time.
+U01,G039,4,Excellent craftsmanship and perfect for the occasion.
+U01,G037,3,It matched the description and arrived on time.
+U01,G011,5,A wonderful gift that exceeded expectations.
+U01,G023,3,Nice gift and reasonably easy to use.
+U01,G015,4,A wonderful gift that exceeded expectations.
+U02,G028,3,Nice gift and reasonably easy to use.
+U02,G007,4,"Useful, stylish and very good value."
+U02,G011,3,Good quality with an attractive presentation.
+U02,G033,5,The recipient loved it and it felt personal.
+U02,G024,5,"Thoughtful, beautiful and arrived with great quality."
+U02,G005,5,Excellent craftsmanship and perfect for the occasion.
+U02,G020,4,A wonderful gift that exceeded expectations.
+U02,G004,3,It matched the description and arrived on time.
+U02,G030,5,"Thoughtful, beautiful and arrived with great quality."
+U02,G003,2,Poor durability and not worth the price.
+U02,G014,4,"Useful, stylish and very good value."
+U02,G001,5,"Thoughtful, beautiful and arrived with great quality."
+U02,G019,2,The recipient was not impressed and it felt overpriced.
+U02,G040,3,Nice gift and reasonably easy to use.
+U02,G035,3,It matched the description and arrived on time.
+U02,G010,5,Excellent craftsmanship and perfect for the occasion.
+U02,G027,4,Excellent craftsmanship and perfect for the occasion.
+U02,G006,4,Excellent craftsmanship and perfect for the occasion.
+U02,G012,5,"Thoughtful, beautiful and arrived with great quality."
+U02,G013,3,"A pleasant choice, though delivery could improve."
+U02,G032,5,Excellent craftsmanship and perfect for the occasion.
+U02,G029,5,A wonderful gift that exceeded expectations.
+U02,G009,4,"Thoughtful, beautiful and arrived with great quality."
+U02,G023,4,The recipient loved it and it felt personal.
+U03,G005,5,"Thoughtful, beautiful and arrived with great quality."
+U03,G006,2,Average at best with weak packaging.
+U03,G036,5,"Useful, stylish and very good value."
+U03,G015,4,"Useful, stylish and very good value."
+U03,G034,3,It matched the description and arrived on time.
+U03,G010,2,Average at best with weak packaging.
+U03,G017,4,"Thoughtful, beautiful and arrived with great quality."
+U03,G018,2,Disappointing quality and smaller than expected.
+U03,G025,5,"Useful, stylish and very good value."
+U03,G007,5,"Thoughtful, beautiful and arrived with great quality."
+U03,G009,3,Good quality with an attractive presentation.
+U03,G033,4,A wonderful gift that exceeded expectations.
+U03,G039,4,"Useful, stylish and very good value."
+U03,G028,5,"Thoughtful, beautiful and arrived with great quality."
+U03,G032,4,"Useful, stylish and very good value."
+U03,G002,3,It matched the description and arrived on time.
+U03,G001,5,Excellent craftsmanship and perfect for the occasion.
+U03,G016,3,"A pleasant choice, though delivery could improve."
+U03,G003,4,A wonderful gift that exceeded expectations.
+U03,G020,4,A wonderful gift that exceeded expectations.
+U03,G022,4,"Thoughtful, beautiful and arrived with great quality."
+U03,G029,5,Excellent craftsmanship and perfect for the occasion.
+U03,G014,4,A wonderful gift that exceeded expectations.
+U03,G021,4,"Useful, stylish and very good value."
+U04,G033,2,Poor durability and not worth the price.
+U04,G021,4,"Useful, stylish and very good value."
+U04,G022,4,A wonderful gift that exceeded expectations.
+U04,G018,3,It matched the description and arrived on time.
+U04,G015,4,"Thoughtful, beautiful and arrived with great quality."
+U04,G040,5,The recipient loved it and it felt personal.
+U04,G035,3,"A pleasant choice, though delivery could improve."
+U04,G008,5,"Useful, stylish and very good value."
+U04,G013,3,Good quality with an attractive presentation.
+U04,G003,3,Good quality with an attractive presentation.
+U04,G036,5,"Useful, stylish and very good value."
+U04,G016,3,Good quality with an attractive presentation.
+U04,G006,5,A wonderful gift that exceeded expectations.
+U04,G019,4,A wonderful gift that exceeded expectations.
+U04,G031,5,Excellent craftsmanship and perfect for the occasion.
+U04,G014,3,Nice gift and reasonably easy to use.
+U04,G017,3,"A pleasant choice, though delivery could improve."
+U04,G032,4,"Useful, stylish and very good value."
+U04,G030,5,A wonderful gift that exceeded expectations.
+U04,G005,2,The recipient was not impressed and it felt overpriced.
+U04,G027,5,Excellent craftsmanship and perfect for the occasion.
+U04,G001,3,Good quality with an attractive presentation.
+U04,G025,2,Average at best with weak packaging.
+U04,G029,4,"Thoughtful, beautiful and arrived with great quality."
+U05,G010,5,"Thoughtful, beautiful and arrived with great quality."
+U05,G024,2,Poor durability and not worth the price.
+U05,G038,4,A wonderful gift that exceeded expectations.
+U05,G021,5,"Thoughtful, beautiful and arrived with great quality."
+U05,G030,4,Excellent craftsmanship and perfect for the occasion.
+U05,G026,3,"A pleasant choice, though delivery could improve."
+U05,G025,3,Good quality with an attractive presentation.
+U05,G029,4,"Useful, stylish and very good value."
+U05,G015,5,Excellent craftsmanship and perfect for the occasion.
+U05,G027,3,Good quality with an attractive presentation.
+U05,G019,5,A wonderful gift that exceeded expectations.
+U05,G023,5,The recipient loved it and it felt personal.
+U05,G040,3,It matched the description and arrived on time.
+U05,G031,4,"Useful, stylish and very good value."
+U05,G039,5,The recipient loved it and it felt personal.
+U05,G037,3,It matched the description and arrived on time.
+U05,G006,3,Nice gift and reasonably easy to use.
+U05,G005,5,The recipient loved it and it felt personal.
+U05,G033,5,A wonderful gift that exceeded expectations.
+U05,G004,3,It matched the description and arrived on time.
+U05,G032,4,"Useful, stylish and very good value."
+U05,G012,3,Good quality with an attractive presentation.
+U05,G016,2,Disappointing quality and smaller than expected.
+U05,G035,4,The recipient loved it and it felt personal.
+U06,G020,3,"A pleasant choice, though delivery could improve."
+U06,G019,4,"Useful, stylish and very good value."
+U06,G017,5,"Thoughtful, beautiful and arrived with great quality."
+U06,G011,4,"Useful, stylish and very good value."
+U06,G010,5,The recipient loved it and it felt personal.
+U06,G029,4,A wonderful gift that exceeded expectations.
+U06,G014,5,A wonderful gift that exceeded expectations.
+U06,G025,5,"Thoughtful, beautiful and arrived with great quality."
+U06,G013,5,A wonderful gift that exceeded expectations.
+U06,G034,3,"A pleasant choice, though delivery could improve."
+U06,G024,5,Excellent craftsmanship and perfect for the occasion.
+U06,G009,3,Good quality with an attractive presentation.
+U06,G016,4,The recipient loved it and it felt personal.
+U06,G023,4,"Useful, stylish and very good value."
+U06,G032,3,Nice gift and reasonably easy to use.
+U06,G003,4,A wonderful gift that exceeded expectations.
+U06,G002,3,Good quality with an attractive presentation.
+U06,G028,5,The recipient loved it and it felt personal.
+U06,G026,4,A wonderful gift that exceeded expectations.
+U06,G008,5,A wonderful gift that exceeded expectations.
+U06,G038,5,A wonderful gift that exceeded expectations.
+U06,G036,5,A wonderful gift that exceeded expectations.
+U06,G022,4,A wonderful gift that exceeded expectations.
+U06,G001,3,"A pleasant choice, though delivery could improve."
+U07,G037,5,"Thoughtful, beautiful and arrived with great quality."
+U07,G024,4,Excellent craftsmanship and perfect for the occasion.
+U07,G027,4,"Thoughtful, beautiful and arrived with great quality."
+U07,G025,5,"Thoughtful, beautiful and arrived with great quality."
+U07,G036,4,"Thoughtful, beautiful and arrived with great quality."
+U07,G028,3,"A pleasant choice, though delivery could improve."
+U07,G035,4,Excellent craftsmanship and perfect for the occasion.
+U07,G011,4,The recipient loved it and it felt personal.
+U07,G029,4,A wonderful gift that exceeded expectations.
+U07,G005,4,"Thoughtful, beautiful and arrived with great quality."
+U07,G010,4,A wonderful gift that exceeded expectations.
+U07,G009,5,Excellent craftsmanship and perfect for the occasion.
+U07,G022,4,A wonderful gift that exceeded expectations.
+U07,G014,3,Good quality with an attractive presentation.
+U07,G018,4,"Useful, stylish and very good value."
+U07,G039,4,Excellent craftsmanship and perfect for the occasion.
+U07,G034,2,Average at best with weak packaging.
+U07,G003,4,"Thoughtful, beautiful and arrived with great quality."
+U07,G007,5,A wonderful gift that exceeded expectations.
+U07,G015,5,Excellent craftsmanship and perfect for the occasion.
+U07,G019,5,"Thoughtful, beautiful and arrived with great quality."
+U07,G021,3,It matched the description and arrived on time.
+U07,G033,4,Excellent craftsmanship and perfect for the occasion.
+U07,G031,4,A wonderful gift that exceeded expectations.
+U08,G006,4,"Thoughtful, beautiful and arrived with great quality."
+U08,G038,5,A wonderful gift that exceeded expectations.
+U08,G016,4,The recipient loved it and it felt personal.
+U08,G031,3,It matched the description and arrived on time.
+U08,G032,4,Excellent craftsmanship and perfect for the occasion.
+U08,G020,3,It matched the description and arrived on time.
+U08,G025,3,Good quality with an attractive presentation.
+U08,G011,4,"Useful, stylish and very good value."
+U08,G003,5,"Thoughtful, beautiful and arrived with great quality."
+U08,G008,5,A wonderful gift that exceeded expectations.
+U08,G026,5,"Useful, stylish and very good value."
+U08,G037,3,It matched the description and arrived on time.
+U08,G027,5,A wonderful gift that exceeded expectations.
+U08,G023,5,Excellent craftsmanship and perfect for the occasion.
+U08,G015,5,The recipient loved it and it felt personal.
+U08,G033,3,Nice gift and reasonably easy to use.
+U08,G009,2,Average at best with weak packaging.
+U08,G035,5,"Useful, stylish and very good value."
+U08,G022,5,"Useful, stylish and very good value."
+U08,G028,3,"A pleasant choice, though delivery could improve."
+U08,G004,3,Nice gift and reasonably easy to use.
+U08,G021,3,Nice gift and reasonably easy to use.
+U08,G039,4,A wonderful gift that exceeded expectations.
+U08,G030,5,Excellent craftsmanship and perfect for the occasion.
+U09,G032,4,The recipient loved it and it felt personal.
+U09,G036,4,The recipient loved it and it felt personal.
+U09,G021,5,"Useful, stylish and very good value."
+U09,G011,3,It matched the description and arrived on time.
+U09,G040,4,Excellent craftsmanship and perfect for the occasion.
+U09,G030,5,The recipient loved it and it felt personal.
+U09,G015,4,Excellent craftsmanship and perfect for the occasion.
+U09,G007,4,Excellent craftsmanship and perfect for the occasion.
+U09,G009,4,The recipient loved it and it felt personal.
+U09,G018,5,"Thoughtful, beautiful and arrived with great quality."
+U09,G039,3,"A pleasant choice, though delivery could improve."
+U09,G019,5,"Thoughtful, beautiful and arrived with great quality."
+U09,G033,3,Good quality with an attractive presentation.
+U09,G035,5,The recipient loved it and it felt personal.
+U09,G014,3,Good quality with an attractive presentation.
+U09,G008,2,The recipient was not impressed and it felt overpriced.
+U09,G020,2,Average at best with weak packaging.
+U09,G034,5,"Useful, stylish and very good value."
+U09,G031,5,The recipient loved it and it felt personal.
+U09,G025,4,A wonderful gift that exceeded expectations.
+U09,G038,4,"Thoughtful, beautiful and arrived with great quality."
+U09,G012,3,Nice gift and reasonably easy to use.
+U09,G023,4,A wonderful gift that exceeded expectations.
+U09,G001,4,A wonderful gift that exceeded expectations.
+U10,G032,4,"Useful, stylish and very good value."
+U10,G007,4,Excellent craftsmanship and perfect for the occasion.
+U10,G014,3,It matched the description and arrived on time.
+U10,G010,5,"Useful, stylish and very good value."
+U10,G038,5,The recipient loved it and it felt personal.
+U10,G016,5,"Useful, stylish and very good value."
+U10,G037,5,"Useful, stylish and very good value."
+U10,G019,3,It matched the description and arrived on time.
+U10,G011,3,Nice gift and reasonably easy to use.
+U10,G033,5,"Thoughtful, beautiful and arrived with great quality."
+U10,G020,4,A wonderful gift that exceeded expectations.
+U10,G015,3,It matched the description and arrived on time.
+U10,G027,3,It matched the description and arrived on time.
+U10,G006,4,"Thoughtful, beautiful and arrived with great quality."
+U10,G028,4,"Thoughtful, beautiful and arrived with great quality."
+U10,G003,4,"Useful, stylish and very good value."
+U10,G026,5,A wonderful gift that exceeded expectations.
+U10,G029,5,"Thoughtful, beautiful and arrived with great quality."
+U10,G039,2,Average at best with weak packaging.
+U10,G008,5,"Useful, stylish and very good value."
+U10,G025,4,"Thoughtful, beautiful and arrived with great quality."
+U10,G040,4,"Thoughtful, beautiful and arrived with great quality."
+U10,G018,4,Excellent craftsmanship and perfect for the occasion.
+U10,G005,4,"Thoughtful, beautiful and arrived with great quality."
+U11,G012,5,"Useful, stylish and very good value."
+U11,G022,3,It matched the description and arrived on time.
+U11,G018,4,"Useful, stylish and very good value."
+U11,G016,4,The recipient loved it and it felt personal.
+U11,G007,5,Excellent craftsmanship and perfect for the occasion.
+U11,G005,4,"Useful, stylish and very good value."
+U11,G003,5,"Thoughtful, beautiful and arrived with great quality."
+U11,G013,3,Good quality with an attractive presentation.
+U11,G014,2,Average at best with weak packaging.
+U11,G026,4,"Thoughtful, beautiful and arrived with great quality."
+U11,G040,5,The recipient loved it and it felt personal.
+U11,G037,3,Good quality with an attractive presentation.
+U11,G017,5,"Thoughtful, beautiful and arrived with great quality."
+U11,G020,3,Good quality with an attractive presentation.
+U11,G010,3,"A pleasant choice, though delivery could improve."
+U11,G035,5,"Thoughtful, beautiful and arrived with great quality."
+U11,G038,3,Nice gift and reasonably easy to use.
+U11,G011,4,Excellent craftsmanship and perfect for the occasion.
+U11,G021,3,It matched the description and arrived on time.
+U11,G015,4,The recipient loved it and it felt personal.
+U11,G009,4,Excellent craftsmanship and perfect for the occasion.
+U11,G028,4,Excellent craftsmanship and perfect for the occasion.
+U11,G029,5,A wonderful gift that exceeded expectations.
+U11,G001,3,"A pleasant choice, though delivery could improve."
+U12,G040,4,"Useful, stylish and very good value."
+U12,G021,2,Poor durability and not worth the price.
+U12,G038,3,Good quality with an attractive presentation.
+U12,G018,3,"A pleasant choice, though delivery could improve."
+U12,G037,2,Disappointing quality and smaller than expected.
+U12,G002,4,"Thoughtful, beautiful and arrived with great quality."
+U12,G033,2,Average at best with weak packaging.
+U12,G023,5,Excellent craftsmanship and perfect for the occasion.
+U12,G034,4,"Useful, stylish and very good value."
+U12,G015,4,"Useful, stylish and very good value."
+U12,G011,4,The recipient loved it and it felt personal.
+U12,G024,3,"A pleasant choice, though delivery could improve."
+U12,G016,4,A wonderful gift that exceeded expectations.
+U12,G028,3,"A pleasant choice, though delivery could improve."
+U12,G027,4,"Useful, stylish and very good value."
+U12,G036,5,"Thoughtful, beautiful and arrived with great quality."
+U12,G017,3,Nice gift and reasonably easy to use.
+U12,G005,3,It matched the description and arrived on time.
+U12,G003,4,The recipient loved it and it felt personal.
+U12,G020,5,The recipient loved it and it felt personal.
+U12,G013,2,The recipient was not impressed and it felt overpriced.
+U12,G014,3,It matched the description and arrived on time.
+U12,G009,3,Nice gift and reasonably easy to use.
+U12,G026,4,"Useful, stylish and very good value."
