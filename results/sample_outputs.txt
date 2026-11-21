@@ -1,0 +1,26 @@
+Test 1 - Occasion query: thoughtful handmade birthday gift for tea lover
+1. Gourmet Tea Sampler [G025] - score=0.8209 - keywords: tea, leaf, guide tea, loose leaf, loose
+2. Artisan Ceramic Tea Set [G001] - score=0.6973 - keywords: tea, tea set, ceramic tea, set birthday, ceramic
+3. Board Game Night Set [G015] - score=0.5754 - keywords: family, night set, games gift, games, game night
+4. Handmade Scented Soy Candle [G003] - score=0.5430 - keywords: soy candle, soy, candle, housewarming lavender, lavender vanilla
+5. Retro Instant Camera [G029] - score=0.5137 - keywords: instant, camera, photographer, memorable, photographer traveler
+
+Test 2 - Similar gift alternatives to bestseller Garden Tool Apron [G030]
+1. Handmade Woven Basket [G039] - score=0.1366 - keywords: basket, natural fibers, woven, natural, made natural
+2. Bamboo Bath Spa Set [G012] - score=0.0838 - keywords: bath, bamboo, spa, accessories spa, lover self
+3. Digital Recipe Tablet Stand [G021] - score=0.0806 - keywords: stand, recipe, digital recipe, digital, day birthday
+4. Yoga Gift Bundle [G028] - score=0.0770 - keywords: mat strap, oils fitness, oils, gift bundle, fitness wellness
+5. Indoor Herb Garden [G017] - score=0.0712 - keywords: herb, indoor herb, indoor, herb planter, herb garden
+
+Test 3 - Cold-start discovery: brand-new seasonal gift
+1. Seasonal Handmade Tea Advent Calendar [G041] - score=0.5176 - keywords: tea, tea advent, calendar, advent calendar, advent
+2. Gourmet Tea Sampler [G025] - score=0.3173 - keywords: tea, leaf tea, loose leaf, loose, leaf
+3. Artisan Ceramic Tea Set [G001] - score=0.2622 - keywords: tea set, ceramic tea, tea, set birthday, ceramic
+4. Personalized Birth Flower Mug [G002] - score=0.1603 - keywords: mug, birth, personalized, mug birthday, lover personalized
+5. Board Game Night Set [G015] - score=0.0941 - keywords: family, night set, games gift, games, game night
+
+Evaluation
+Popularity: precision_at_5=0.2333
+NLP Content: precision_at_5=0.1333
+Sentiment Hybrid: precision_at_5=0.2000
+Rating predictor: MAE=0.7031, RMSE=0.9425
